@@ -9,5 +9,6 @@ Supports  iOS. use AFNetWorking 3.0.
 ## Usage
 
 ``` 
-cordova plugin add https://github.com/AaaCabbage/simpleHttp.git
+cordova plugin add https://github.com/XDUZ/Cordova-Plugin-Http.git
+
 ```
